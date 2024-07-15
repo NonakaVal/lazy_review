@@ -1,6 +1,7 @@
 # Criando resumos de estudos com IA
 
 ## Overview
+Gastando tempo pra ganhar tempo, 
 
 ##  Estrutura do Projeto
 ```
