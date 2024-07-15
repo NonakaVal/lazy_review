@@ -31,7 +31,7 @@ Por fim será solicitado o nome da pasta que sera criada para receber os outputs
 
 #### Agentes
 
-`topic_researcher` : _Especializado em extrair informações relevantes de aulas e palestras._
+`topic_researcher` : _Especializado em extrair informações relevantes de aulas, palestras e artigos._
 
 `academic_reviewer` : _Especializado em revisar e identificar métodos específicos apresentados em contextos acadêmicos._
 
