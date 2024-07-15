@@ -3,20 +3,6 @@
 ## Overview
 Gastando tempo pra ganhar tempo, 
 
-##  Estrutura do Projeto
-```
-lazy_review/
-├── documents/
-│   └── .pdf
-├── main.py/
-├── crew_en.py/
-├── crew_pt.py/
-├── TranscriptVideoExtractor.py/
-└── README.md
-```
-
-
-
 ## Requisitos
 - Python 3.10 or higher
 - An [OpenAI](https://platform.openai.com) API key
@@ -96,4 +82,16 @@ Por fim será solicitado o nome da pasta que sera criada para receber os outputs
 ---
 
 Para explorar mais artigos e vídeos, visite [Meu Repositório de Revisões](https://github.com/NonakaVal/lazy_review/tree/main).
+
+##  Estrutura do Projeto
+```
+lazy_review/
+├── documents/
+│   └── .pdf
+├── main.py/
+├── crew_en.py/
+├── crew_pt.py/
+├── TranscriptVideoExtractor.py/
+└── README.md
+```
 
