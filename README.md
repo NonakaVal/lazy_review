@@ -67,39 +67,33 @@ Por fim será solicitado o nome da pasta que sera criada para receber os outputs
 
 `research_write_task` : _Com base nos materiais fornecidos pelos outros agentes, escrever um relatório estruturado de todo conteúdo_
 
-
-## Resultados
-Cada tarefa irá gerar um arquivo `.md` na pasta criada, com suas respectivas informações, segue alguns testes que realizei para extrair resumos de alguns artigos e vídeos.
+## Exemplos
 
 ### Artigos
 
 #### [Entropy–Based Diversification Approach for Bio–Computing Methods](https://www.mdpi.com/1099-4300/24/9/1293)
+- **Resumo:** [Link para o Resumo](https://github.com/NonakaVal/lazy_review/blob/main/art-biocomputing/final_document.md)
+- **Arquivos `md`:** [Ver Arquivos](https://github.com/NonakaVal/lazy_review/tree/main/art-biocomputing)
+- **Descrição:** Este artigo explora uma abordagem de diversificação baseada em entropia para métodos de bioinformática.
 
-- [Resumo](https://github.com/NonakaVal/lazy_review/blob/main/art-biocomputing/final_document.md)
-
-- [Arquivos `md`](https://github.com/NonakaVal/lazy_review/tree/main/art-biocomputing)
-
-  
 #### [Machine Learning Algorithms for Diabetes Prediction](https://www.sciencedirect.com/science/article/pii/S1877050920300557)
+- **Resumo:** [Link para o Resumo](https://github.com/NonakaVal/lazy_review/blob/main/art-Diabetes-Prediction-using-ML-Algorithms/final_document.md)
+- **Arquivos `md`:** [Ver Arquivos](https://github.com/NonakaVal/lazy_review/tree/main/art-Diabetes-Prediction-using-ML-Algorithms)
+- **Descrição:** Este artigo discute diferentes algoritmos de aprendizado de máquina para previsão de diabetes.
 
-- [Resumo](https://github.com/NonakaVal/lazy_review/blob/main/art-Diabetes-Prediction-using-ML-Algorithms/final_document.md)
-
-- [Arquivos `md`](https://github.com/NonakaVal/lazy_review/tree/main/art-Diabetes-Prediction-using-ML-Algorithms)
-- 
 ### Vídeos
 
-#### [Machine Learning: Tutorial prático usando apenas o navegador ](https://www.youtube.com/watch?v=JyGGMyR3x5I)
+#### [Machine Learning: Tutorial prático usando apenas o navegador](https://www.youtube.com/watch?v=JyGGMyR3x5I)
+- **Resumo:** [Link para o Resumo](https://github.com/NonakaVal/lazy_review/blob/main/vid-dechamps/documento_final.md)
+- **Arquivos `md`:** [Ver Arquivos](https://github.com/NonakaVal/lazy_review/tree/main/vid-dechamps)
+- **Descrição:** Tutorial prático que ensina conceitos de machine learning usando apenas um navegador web.
 
+#### [Um resumo sobre aprender com anotações](https://www.youtube.com/watch?v=cQ22PERTCBI&t=3s)
+- **Resumo:** [Link para o Resumo](https://github.com/NonakaVal/lazy_review/blob/main/vid-meu-video/documento_final.md)
+- **Arquivos `md`:** [Ver Arquivos](https://github.com/NonakaVal/lazy_review/tree/main/vid-meu-video)
+- **Descrição:** Vídeo que explora técnicas eficazes para aprender com anotações durante o estudo.
 
-- [Resumo](https://github.com/NonakaVal/lazy_review/blob/main/vid-dechamps/documento_final.md)
+---
 
-- [Arquivos `md`](https://github.com/NonakaVal/lazy_review/tree/main/vid-dechamps)
-
-
-#### [Um resumo sobre aprender com anotações.](https://www.youtube.com/watch?v=cQ22PERTCBI&t=3s)
-
-
-- [Resumo](https://github.com/NonakaVal/lazy_review/blob/main/vid-meu-video/documento_final.md)
-
-- [Arquivos `md`](https://github.com/NonakaVal/lazy_review/tree/main/vid-meu-video)
+Para explorar mais artigos e vídeos, visite [Meu Repositório de Revisões](https://github.com/NonakaVal/lazy-review).
 
