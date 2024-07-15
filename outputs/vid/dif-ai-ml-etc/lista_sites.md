@@ -1,0 +1,2 @@
+- Alura: Site de cursos online que aborda temas como Data Science, Machine Learning e Data Visualization.
+- Não foram mencionados outros sites no texto fornecido.

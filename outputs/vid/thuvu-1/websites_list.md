@@ -1,0 +1,4 @@
+1. MIT Applied Data Science Program - Provides a system for efficient retrieval of learned information, aiding in motivation and control during study.
+2. Skills by Duke University - Covers basic mathematics including set theory, functions, graphs, and logarithms, serving as a starting point for brushing up on math knowledge.
+3. Mathematics for Machine Learning Specialization by Imperial College London - Contains courses on linear algebra, multivariate calculus, and PCA, covering essential math topics for machine learning.
+4. Statistics Books in R (mentioned in the description) - Additional resources for statistics learning, particularly focused on using R programming language.

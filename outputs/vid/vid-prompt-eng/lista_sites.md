@@ -1,0 +1,2 @@
+- http://www.ieee.org - Site da IEEE, que aborda temas relacionados à engenharia e tecnologia.
+- http://www.antropic.com - Site da Antropic, empresa que emprega engenheiros de prompt para testar e otimizar prompts em larga escala.
