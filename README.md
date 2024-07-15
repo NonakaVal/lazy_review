@@ -95,5 +95,5 @@ Por fim será solicitado o nome da pasta que sera criada para receber os outputs
 
 ---
 
-Para explorar mais artigos e vídeos, visite [Meu Repositório de Revisões](https://github.com/NonakaVal/lazy-review).
+Para explorar mais artigos e vídeos, visite [Meu Repositório de Revisões](https://github.com/NonakaVal/lazy_review/tree/main).
 
