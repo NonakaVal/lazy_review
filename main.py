@@ -2,7 +2,7 @@ from crewai import Crew, Process
 from langchain_openai import ChatOpenAI
 
 # crew_pt for Portuguese and crew_en for English
-from crew_en import (
+from crew_pt import (
     topic_researcher, academic_reviewer, ref_specialist, prof, research_writer,
     list_topics_task, academic_review_task, website_list_task, tutorial_write_task, research_write_task,
     pdf_path
