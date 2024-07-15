@@ -1,7 +1,7 @@
 # Criando resumos de estudos com IA
 
 ## Overview
-Gastando tempo pra ganhar tempo, 
+Gastando tempo pra ganhar tempo com [GPT](https://platform.openai.com) e [crewAI](https://crewai.com).
 
 ## Requisitos
 - Python 3.10 or higher
