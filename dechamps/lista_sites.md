@@ -1,0 +1,3 @@
+- Google Colab: Plataforma online que permite a execução de scripts Python, incluindo aqueles relacionados a Machine Learning.
+- Bibliotecas de Machine Learning: Ferramentas que facilitam a implementação rápida e eficiente de algoritmos e modelos de Machine Learning.
+- Reinforcement Learning: Categoria de algoritmos de Machine Learning e Inteligência Artificial que permitem o aprendizado em tempo real e a adaptação do modelo com base nas interações do sistema com o ambiente.

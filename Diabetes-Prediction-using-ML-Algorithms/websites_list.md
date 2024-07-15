@@ -1,0 +1,2 @@
+1. www.sciencedirect.com - ScienceDirect is a website that provides access to scientific, technical, and medical research articles and journals.
+2. www.elsevier.com/locate/procedia - Elsevier's Procedia Computer Science is a platform for the publication of conference proceedings in computer science.
