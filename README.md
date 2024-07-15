@@ -15,7 +15,7 @@ Gastando tempo pra ganhar tempo,
 python TranscriptVideoExtractor.py
 ```
 
-Cógido simples que solicita a URL do vídeo que deseja extrair a transcrição, lembrando que para que possa ser resumido com `main.py` é necessário nomear o arquivo sempre com `.pdf` no final, criando o arquivo na pasta `transcripts/`.
+Cógido simples que solicita a URL do vídeo que deseja extrair a transcrição, lembrando que para que possa ser resumido com `main.py` é necessário nomear o arquivo sempre com `.pdf` , criando o arquivo na pasta `documents/`.
 
 
 ### Gerando Resumos 
