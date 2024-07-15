@@ -99,6 +99,9 @@ Para explorar mais artigos e vídeos, visite [Meu Repositório de Revisões](htt
 lazy_review/
 ├── documents/
 │   └── .pdf
+├── outputs/
+│   └── art/
+│   └── vid/
 ├── main.py/
 ├── crew_en.py/
 ├── crew_pt.py/
