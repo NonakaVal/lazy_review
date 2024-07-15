@@ -68,8 +68,38 @@ Por fim será solicitado o nome da pasta que sera criada para receber os outputs
 `research_write_task` : _Com base nos materiais fornecidos pelos outros agentes, escrever um relatório estruturado de todo conteúdo_
 
 
-### Resultados
+## Resultados
 Cada tarefa irá gerar um arquivo `.md` na pasta criada, com suas respectivas informações, segue alguns testes que realizei para extrair resumos de alguns artigos e vídeos.
 
+### Artigos
 
+#### [Entropy–Based Diversification Approach for Bio–Computing Methods](https://www.mdpi.com/1099-4300/24/9/1293)
+
+- [Resumo](https://github.com/NonakaVal/lazy_review/blob/main/art-biocomputing/final_document.md)
+
+- [Arquivos `md`](https://github.com/NonakaVal/lazy_review/tree/main/art-biocomputing)
+
+  
+#### [Machine Learning Algorithms for Diabetes Prediction](https://www.sciencedirect.com/science/article/pii/S1877050920300557)
+
+- [Resumo](https://github.com/NonakaVal/lazy_review/blob/main/art-Diabetes-Prediction-using-ML-Algorithms/final_document.md)
+
+- [Arquivos `md`](https://github.com/NonakaVal/lazy_review/tree/main/art-Diabetes-Prediction-using-ML-Algorithms)
+- 
+### Vídeos
+
+#### [Machine Learning: Tutorial prático usando apenas o navegador ](https://www.youtube.com/watch?v=JyGGMyR3x5I)
+
+
+- [Resumo](https://github.com/NonakaVal/lazy_review/blob/main/vid-dechamps/documento_final.md)
+
+- [Arquivos `md`](https://github.com/NonakaVal/lazy_review/tree/main/vid-dechamps)
+
+
+#### [Um resumo sobre aprender com anotações.](https://www.youtube.com/watch?v=cQ22PERTCBI&t=3s)
+
+
+- [Resumo](https://github.com/NonakaVal/lazy_review/blob/main/vid-meu-video/documento_final.md)
+
+- [Arquivos `md`](https://github.com/NonakaVal/lazy_review/tree/main/vid-meu-video)
 
