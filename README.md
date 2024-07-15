@@ -51,20 +51,27 @@ Por fim será solicitado o nome da pasta que sera criada para receber os outputs
 
 `tutorial_write_task` : _Produzir um guia/aula_
 
-`research_write_task` : _Com base nos materiais fornecidos pelos outros agentes, escrever um relatório estruturado de todo conteúdo_
+`research_write_task` : _Com base nos materiais fornecidos pelos outros agentes, escrever um relatório estruturado de todo conteúdo_ :
 
-```
-"\n- **Tópicos:** a lista dos tópicos definidos"
-"\n- **Objetivos:** Descreva os objetivos do estudo."
-"\n- **Lacuna de pesquisa:** Identifique a lacuna de pesquisa que o estudo pretende preencher."
-"\n- **Metodologia:** Detalhe os métodos utilizados no estudo."
-"\n- **Conjunto de dados:** Descreva o conjunto de dados usado no estudo."
-"\n- **Resultados:** Resuma as principais descobertas do estudo."
-"\n- **Limitações:** Discuta as limitações do estudo."
-"\n- **Conclusão:** Forneça a conclusão do estudo."
-"\n- **Direções Futuras:** Sugira possíveis direções para pesquisas futuras."
-"\n- **Avaliações:** Inclua quaisquer avaliações ou estimativas feitas no estudo."
-```
+**Tópicos:** a lista dos tópicos definidos"
+
+**Objetivos:** Descreva os objetivos do estudo."
+
+**Lacuna de pesquisa:** Identifique a lacuna de pesquisa que o estudo pretende preencher."
+
+**Metodologia:** Detalhe os métodos utilizados no estudo."
+
+**Conjunto de dados:** Descreva o conjunto de dados usado no estudo."
+
+**Resultados:** Resuma as principais descobertas do estudo."
+
+**Limitações:** Discuta as limitações do estudo."
+
+**Conclusão:** Forneça a conclusão do estudo."
+
+**Direções Futuras:** Sugira possíveis direções para pesquisas futuras."
+
+**Avaliações:** Inclua quaisquer avaliações ou estimativas feitas no estudo."
 
 ## Exemplos
 
