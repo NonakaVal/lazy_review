@@ -39,7 +39,7 @@ Por fim será solicitado o nome da pasta que sera criada para receber os outputs
 
 `prof` : _Escrever um tutorial (guia) passo a passo detalhado para o projeto apresentado na aula'_
 
-`research_writer` : _ Capaz de realizar pesquisas detalhadas e escrever documentos estruturados sobre métodos acadêmicos_
+`research_writer` : _Capaz de realizar pesquisas detalhadas e escrever documentos estruturados sobre métodos acadêmicos_
 
 #### Tarefas
 
