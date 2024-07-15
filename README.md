@@ -10,7 +10,7 @@ Gastando tempo pra ganhar tempo,
 
 ## Uso e Testes
 
-### Extrair Transcrição
+### Extrair Transcrição de Videos do Youtube
 ```python
 python TranscriptVideoExtractor.py
 ```
