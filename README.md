@@ -5,7 +5,7 @@ Gastando tempo pra ganhar tempo,
 
 ##  Estrutura do Projeto
 ```
-salva-tempo-aulas-youtube/
+lazy_review/
 ├── documents/
 │   └── .pdf
 ├── main.py/
