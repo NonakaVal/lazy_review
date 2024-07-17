@@ -1,0 +1,1 @@
+Não foi possível encontrar sites específicos mencionados no texto sobre como fazer uma pesquisa.

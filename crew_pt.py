@@ -113,14 +113,14 @@ list_topics_task = create_task(
     description=f"Liste todos os tópicos abordados sobre '{context_topic}' presente no texto.",
     expected_output='Lista detalhada e enumerada de todos os tópicos abordados no texto.',
     agent=topic_researcher,
-    output_file=os.path.join(output_directory, "lista_informacoes_relevantes.md")
+    output_file=os.path.join(output_directory, "lista_de_topicos.md")
 )
 
 academic_review_task = create_task(
     description=f"Identificar as técnicas e métodos apresentados na aula de '{context_topic}'.",
     expected_output=f"Todos os tópicos listados com seus métodos utilizados e seus objetivos sobre '{context_topic}' devidamente descritos e revisados.",
     agent=academic_reviewer,
-    output_file=os.path.join(output_directory, "identificacao_tecnicas.md"),
+    output_file=os.path.join(output_directory, "descricao_topicos.md"),
     context=[list_topics_task]
 )
 
@@ -130,7 +130,7 @@ website_list_task = create_task(
     ),
     expected_output='Lista de todos os sites mencionados no texto e suas funções.',
     agent=ref_specialist,
-    output_file=os.path.join(output_directory, "lista_sites.md")
+    output_file=os.path.join(output_directory, "referencias.md")
 )
 
 tutorial_write_task = create_task(
@@ -168,5 +168,5 @@ research_write_task = create_task(
     agent=research_writer,
     async_execution=False,
     context=[list_topics_task, academic_review_task, website_list_task, tutorial_write_task],
-    output_file=os.path.join(output_directory, "documento_final.md")
+    output_file=os.path.join(output_directory, "resumo.md")
 )

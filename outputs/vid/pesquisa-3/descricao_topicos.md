@@ -1,0 +1,9 @@
+1. Apresentação do tema: O primeiro passo para fazer um projeto de pesquisa é a escolha de um tema relevante e significativo para a área de estudo.
+2. Criação do projeto de pesquisa: O segundo passo envolve a criação do projeto de pesquisa, no qual é explicado o que será abordado no trabalho e a metodologia que será utilizada.
+3. Coleta de informações: O terceiro e último passo é a coleta de informações, que pode envolver pesquisas em laboratórios, nas ruas, através de questionários, entre outras formas.
+4. Apresentação do projeto de pesquisa ao orientador: É importante apresentar o projeto de pesquisa ao orientador para obter feedback e orientações.
+5. Requisito do projeto de pesquisa para entrada em cursos de pós-graduação: Em muitos casos, é necessário apresentar um projeto de pesquisa para ingressar em cursos de pós-graduação, como mestrado ou doutorado.
+6. Solicitação de financiamento do trabalho através do projeto de pesquisa: O projeto de pesquisa também pode ser utilizado para solicitar financiamento para a realização do trabalho.
+7. Objetivo de ter clareza nas ações através do projeto de pesquisa: O principal objetivo de elaborar um projeto de pesquisa é ter clareza sobre o que será realizado e como as ações serão conduzidas.
+8. Trabalho passo a passo em todos os itens do projeto de pesquisa: É fundamental seguir um roteiro passo a passo para garantir que todos os elementos do projeto de pesquisa sejam contemplados.
+9. Diferença entre tema e título do projeto de pesquisa: É importante não confundir o tema, que é a questão central de estudo, com o título, que é a denominação do trabalho.

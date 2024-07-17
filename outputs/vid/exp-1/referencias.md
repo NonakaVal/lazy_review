@@ -1,0 +1,1 @@
+Não foram encontrados sites mencionados no texto sobre "Pesquisa Exploratória".

@@ -112,14 +112,14 @@ list_topics_task = create_task(
     description=f"List all topics covered about '{context_topic}' in the text.",
     expected_output='Detailed and enumerated list of all topics covered in the text.',
     agent=topic_researcher,
-    output_file=os.path.join(output_directory, "relevant_information_list.md")
+    output_file=os.path.join(output_directory, "topics.md")
 )
 
 academic_review_task = create_task(
     description=f"Identify the techniques and methods presented in the lecture '{context_topic}'.",
     expected_output=f"All topics listed with their methods used and their goals about '{context_topic}' properly described and reviewed.",
     agent=academic_reviewer,
-    output_file=os.path.join(output_directory, "techniques_identification.md"),
+    output_file=os.path.join(output_directory, "techniques.md"),
     context=[list_topics_task]
 )
 
@@ -167,5 +167,5 @@ research_write_task = create_task(
     agent=research_writer,
     async_execution=False,
     context=[list_topics_task, academic_review_task, website_list_task, tutorial_write_task],
-    output_file=os.path.join(output_directory, "final_document.md")
+    output_file=os.path.join(output_directory, "review.md")
 )
