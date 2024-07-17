@@ -102,6 +102,13 @@ lazy_review/
 ├── outputs/
 │   └── art/
 │   └── vid/
+├── tools/
+│   └── __init__.py
+│   └── browser_tools.py
+│   └── create_agents.py
+│   └── create_tasks.py
+│   └── PDFSelector.py
+│   └── search_tools.py
 ├── main.py/
 ├── crew_en.py/
 ├── crew_pt.py/
