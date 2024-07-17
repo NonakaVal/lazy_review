@@ -1,0 +1,9 @@
+1. Normas de formatação e normalização ABNT: As normas da ABNT direcionam para um trabalho formatado, com instituições de ensino superior e sites específicos disponibilizando guias de normalização referenciados pela ABNT. A ABNT padroniza não apenas trabalhos acadêmicos, mas também outros produtos, como as entradas de tomadas.
+2. Acesso às normas em instituições de ensino superior e internet: As normas de normalização estão disponíveis em bibliotecas e unidades de informação das instituições de ensino superior, em sites específicos na internet e no site da ABNT.
+3. Repositório UFO como fonte de normalização: O repositório UFO disponibiliza guias de normalização, sendo uma fonte de acesso às normas de normalização.
+4. Consulta aos orientadores e professores para orientações específicas: É importante consultar orientadores e professores para saber como desejam a apresentação do trabalho, mesmo que se baseiem nas normas da ABNT, pois podem ter especificidades ou preferências.
+5. Capa, contra capa e elementos pré-textuais: Apesar de previstos na norma da ABNT, é importante verificar com o orientador se há necessidade de incluir esses elementos, podendo optar por uma apresentação mais simples.
+6. Estrutura do trabalho acadêmico: Os trabalhos acadêmicos devem seguir a estrutura indicada pela ABNT, verificando se há exigências específicas do orientador.
+7. Pesquisa e revisão bibliográfica: Essenciais para complementar o texto acadêmico, garantindo a fundamentação teórica e a contextualização do tema.
+8. Normalização para publicações científicas: A normalização é fundamental para publicações científicas, seguindo as diretrizes da ABNT para garantir a qualidade e padronização dos trabalhos.
+9. Importância do método científico para a legitimidade da pesquisa: O método científico é crucial para garantir a legitimidade da pesquisa, oferecendo conceitos emergentes e embasamento teórico sólido para os pesquisadores.
