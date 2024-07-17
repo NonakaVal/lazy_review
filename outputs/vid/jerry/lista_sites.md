@@ -1,0 +1,3 @@
+- DataRobot: Plataforma de machine learning projetada para empresas implementarem modelos de machine learning dentro de processos específicos, com o objetivo de democratizar a utilização dos ciências de dados.
+- Aquém: Ferramenta que permite preparar, limpar e trabalhar os dados, realizar forecasting, fazer análises, criar Ed haw analyses, utilizar nlp para conversar com os dados, criar relatórios utilizando Inteligência Artificial generativa, além de diversas integrações. É uma ferramenta sensacional para consultores de data science e profissionais de data Science Analytics em agências ou Marketing.
+- BigML: Recurso de machine learning.
